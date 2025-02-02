@@ -21,7 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/EFEQkvl.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/LUCp2pW.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I started off by logining into the agent portal using an admin account that gave access to the admin panel I can use to configure my help desk system. Afterwards I started by adding new roles, in this case I created a "supreme admin" role which allows the user with the role all permissions. I then configured and created a new "SysAdmins" department which will be a top level department and a tier above the other departments.
+I started off by logging into the agent portal using an admin account that gave access to the admin panel I can use to configure my help desk system. Afterwards I started by adding new roles, in this case I created a "supreme admin" role which allows the user with the role all permissions. I then configured and created a new "SysAdmins" department which will be a top level department and a tier above the other departments.
 </p>
 <br />
 
